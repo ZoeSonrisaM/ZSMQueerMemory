@@ -78,13 +78,16 @@ h2 {
     padding: 20px;
 }
 
+.hoofdfoto{
+    text-align:center
+}
+
 .hoofdfoto img {
     max-width: 100%;
     width: 50vw;
     height: 50vw;
     object-fit: cover;
     border-radius: 100%;
-    text-align:center;
 }
 
 div.pics {
